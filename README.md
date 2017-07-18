@@ -1,3 +1,3 @@
 # helloCi
-> use jenkins XXX
+> use jenkins XXx:X
 
