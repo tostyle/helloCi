@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "restart" "pm2 restart index"
+    "start": "/usr/local/bin/node index.js",
+    "restart": "pm2 restart index"
   },
   "author": "",
   "license": "ISC",
