@@ -1,2 +1,2 @@
 # helloCi
-> use jenkins
+> use jenkins 2
