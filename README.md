@@ -1,3 +1,3 @@
 # helloCi
-> use jenkins 3
+> use jenkins
 
